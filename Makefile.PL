@@ -6,7 +6,7 @@ author   'Samuel Kaufman <skaufman@cpan.org>';
 
 build_requires 'Test::More';
 requires 'Devel::StackTrace';
-requires 'Template';
+requires 'Template' => '2.22';
 
 auto_install;
 

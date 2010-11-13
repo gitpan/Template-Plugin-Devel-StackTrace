@@ -17,7 +17,7 @@ Version 0.01
 use vars qw($VERSION @ISA);
 BEGIN
 {
-	$VERSION = '0.01';
+	$VERSION = '0.02';
     @ISA     = qw(Template::Plugin);
 }
 
